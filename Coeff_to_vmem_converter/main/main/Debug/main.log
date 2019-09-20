@@ -1,0 +1,38 @@
+﻿Построение начато 20.09.2019 18:23:59.
+     1>Проект "D:\Projects\COEF_GEN\Coeff_to_vmem_converter\main\main\main.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\main.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         D:\Programs\visual_studio_2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\main.c
+         main.c
+     1>d:\projects\coef_gen\coeff_to_vmem_converter\main.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programs\visual_studio_2012\vc\include\stdio.h(290): см. объявление "scanf"
+     1>d:\projects\coef_gen\coeff_to_vmem_converter\main.c(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programs\visual_studio_2012\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>d:\projects\coef_gen\coeff_to_vmem_converter\main.c(55): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programs\visual_studio_2012\vc\include\stdio.h(218): см. объявление "fopen"
+     1>d:\projects\coef_gen\coeff_to_vmem_converter\main.c(69): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programs\visual_studio_2012\vc\include\stdio.h(218): см. объявление "fopen"
+     1>d:\projects\coef_gen\coeff_to_vmem_converter\main.c(142): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programs\visual_studio_2012\vc\include\stdio.h(290): см. объявление "scanf"
+     1>d:\projects\coef_gen\coeff_to_vmem_converter\main.c(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programs\visual_studio_2012\vc\include\stdio.h(218): см. объявление "fopen"
+     1>d:\projects\coef_gen\coeff_to_vmem_converter\main.c(289): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programs\visual_studio_2012\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>d:\projects\coef_gen\coeff_to_vmem_converter\main.c(290): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programs\visual_studio_2012\vc\include\stdio.h(218): см. объявление "fopen"
+     1>d:\projects\coef_gen\coeff_to_vmem_converter\main.c(306): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programs\visual_studio_2012\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>d:\projects\coef_gen\coeff_to_vmem_converter\main.c(307): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programs\visual_studio_2012\vc\include\stdio.h(218): см. объявление "fopen"
+       Link:
+         D:\Programs\visual_studio_2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\COEF_GEN\Coeff_to_vmem_converter\main\Debug\main.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\COEF_GEN\Coeff_to_vmem_converter\main\Debug\main.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\COEF_GEN\Coeff_to_vmem_converter\main\Debug\main.lib" /MACHINE:X86 Debug\main.obj
+         main.vcxproj -> D:\Projects\COEF_GEN\Coeff_to_vmem_converter\main\Debug\main.exe
+       FinalizeBuildStatus:
+         Файл "Debug\main.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\main.lastbuildstate".
+     1>Построение проекта "D:\Projects\COEF_GEN\Coeff_to_vmem_converter\main\main\main.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.57
